@@ -11,7 +11,8 @@ Análises entre criptomoedas e empresas fabricantes de peças para computador
 
 ## História do projeto 
 
-Este projeto foi feito por mim, Otávio Oliveira Bopp, junto a dois colegas da FGV-EPGE, Arthur e João Pedro, para amatéria de computação do professor Walter Sande. 
+Este projeto foi feito por mim, Otávio Oliveira Bopp, junto a dois colegas da graduação FGV-EPGE, Arthur Exner Ribeiro Mendes e João Pedro Ruiz de Oliveira da SIlva, para a 
+matéria de computação do professor Walter Sande. 
 Foi uma incrível experiência em grupo, com todos integrantes contribuindo para o bom andamento do trabalho. 
 
 Arthur e João são meus calouros, e eu já tinha experiência anterior em programação. Acabei assumindo a "liderança" do projeto, direcionando meus colegas quanto 
